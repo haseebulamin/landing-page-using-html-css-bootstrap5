@@ -11,17 +11,17 @@ Project Structure
 5. vibes.html: A creatively styled page, possibly showcasing testimonials or special content.
 6. Assets
 
-The assets folder contains:
+The assets folder contains:<br>
 
 Images: Any images used in the website. <br>
 CSS: Custom styles built over Bootstrap 5 to enhance the layout and design.
 
-Features
+Features<br>
 Responsive Design: The landing page is fully responsive and adapts to different screen sizes using Bootstrap 5's grid system.<br>
 Modern UI: Clean and modern user interface design using the latest web development technologies.<br>
 Customizable: Easily customizable to suit different needs by modifying the HTML, CSS, and Bootstrap components.
 
-Requirements
+Requirements<br>
 Bootstrap 5: Ensure you are using the latest version of Bootstrap 5 for compatibility.<br>
 Web Browser: Any modern browser such as Chrome, Firefox, or Safari.
 
