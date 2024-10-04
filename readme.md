@@ -26,11 +26,8 @@ Bootstrap 5: Ensure you are using the latest version of Bootstrap 5 for compatib
 Web Browser: Any modern browser such as Chrome, Firefox, or Safari.
 
 How to Run
-1. Clone the repository:
-   git clone https://github.com/your-username/your-repo-name.git
-2. Navigate to the project folder:
-   cd your-repo-name
-3. Open the index.html file in a web browser to view the landing page.
+1. Clone the repository: https://github.com/git-guides/git-clone
+2. Open the index.html file in a web browser to view the landing page.
 
 
 Credits:
