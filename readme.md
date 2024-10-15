@@ -11,24 +11,24 @@ This is a Landing Page project built using HTML, CSS, and Bootstrap 5. It is des
 5. vibes.html: A creatively styled page, possibly showcasing testimonials or special content.
 6. Assets
 
-The assets folder contains:<br>
+<h3>The assets folder contains:</h3> <br>
 
 Images: Any images used in the website. <br>
 CSS: Custom styles built over Bootstrap 5 to enhance the layout and design.
 
-Features<br>
+<h3>Features:<h3><br>
 Responsive Design: The landing page is fully responsive and adapts to different screen sizes using Bootstrap 5's grid system.<br>
 Modern UI: Clean and modern user interface design using the latest web development technologies.<br>
 Customizable: Easily customizable to suit different needs by modifying the HTML, CSS, and Bootstrap components.
 
-Requirements<br>
+<h3>Requirements:</h3><br>
 Bootstrap 5: Ensure you are using the latest version of Bootstrap 5 for compatibility.<br>
 Web Browser: Any modern browser such as Chrome, Firefox, or Safari.
 
-How to Run
+<h3>How to Run:</h3>
 1. Clone the repository: https://github.com/git-guides/git-clone
 2. Open the index.html file in a web browser to view the landing page.
 
 
-Credits:
+<h3>Credits:</h3>
 Created by Haseeb Ul Amin.
