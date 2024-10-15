@@ -1,4 +1,4 @@
-</h1Landing Page Project using HTML, CSS and BootStrap</h1>
+<h1> Landing Page Project using HTML, CSS and BootStrap </h1>
 
 This is a Landing Page project built using HTML, CSS, and Bootstrap 5. It is designed to be fully responsive and provides a modern layout suitable for various use cases like portfolios, businesses, or agencies.
 
