@@ -30,4 +30,4 @@ Web Browser: Any modern browser such as Chrome, Firefox, or Safari.
 
 
 <h3>Credits:</h3>
-Created by <h2 style="color: orangered; font-weight: bolder;">Haseeb Ul Amin</h2>.
+Created by <span style="color: orangered;">Haseeb Ul Amin</span>.
