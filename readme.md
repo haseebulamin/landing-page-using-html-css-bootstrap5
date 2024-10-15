@@ -15,7 +15,7 @@ This is a Landing Page project built using HTML, CSS, and Bootstrap 5. It is des
 Images: Any images used in the website. <br>
 CSS: Custom styles built over Bootstrap 5 to enhance the layout and design.
 
-<h3>Features:<h3>
+<h3>Features:</h3>
 Responsive Design: The landing page is fully responsive and adapts to different screen sizes using Bootstrap 5's grid system.<br>
 Modern UI: Clean and modern user interface design using the latest web development technologies.<br>
 Customizable: Easily customizable to suit different needs by modifying the HTML, CSS, and Bootstrap components.
@@ -30,4 +30,4 @@ Web Browser: Any modern browser such as Chrome, Firefox, or Safari.
 
 
 <h3>Credits:</h3>
-Created by Haseeb Ul Amin.
+Created by <h2 style="color: orangered; font-weight: bolder;">Haseeb Ul Amin</h2>.
