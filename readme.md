@@ -2,7 +2,7 @@
 
 This is a Landing Page project built using HTML, CSS, and Bootstrap 5. It is designed to be fully responsive and provides a modern layout suitable for various use cases like portfolios, businesses, or agencies.
 
-Project Structure
+<h3>Project Structure: </h3>
 
 1. index.html: The main landing page.
 2. about.html: A page providing details about the services or individuals.
