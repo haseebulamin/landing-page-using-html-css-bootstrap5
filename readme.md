@@ -28,6 +28,7 @@ Web Browser: Any modern browser such as Chrome, Firefox, or Safari.
 1. Clone the repository: https://github.com/git-guides/git-clone<br>
 2. Open the index.html file in a web browser to view the landing page.
 
-
+Credits
 <h3>Credits:</h3>
 Created by <span style="color: orangered;">Haseeb Ul Amin</span>.
+Hello I'm haseeb ul amin. I'm committing the code in this repo 
