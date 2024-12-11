@@ -31,4 +31,3 @@ Web Browser: Any modern browser such as Chrome, Firefox, or Safari.
 Credits
 <h3>Credits:</h3>
 Created by <span style="color: orangered;">Haseeb Ul Amin</span>.
-Hello I'm haseeb ul amin. I'm committing the code in this repo 
